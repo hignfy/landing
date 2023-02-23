@@ -1,0 +1,11 @@
+.footer {
+  background-color: darkgray;
+  text-align: center;
+  padding: 60px
+}
+.links{
+  font-size: 30px;
+}
+.links p {
+  font-size: 20px;
+}

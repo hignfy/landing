@@ -1,0 +1,16 @@
+
+.container {
+  align-items: center;
+}
+
+.container p {
+  color: black;
+}
+
+.card {
+  text-align: center;
+}
+
+.card img {
+  width: 150px;
+}
